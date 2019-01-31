@@ -1,4 +1,4 @@
-# Data-Structures-In-Python
+# Data Structures In Python
 Several Data Structures implementation in Python. Doing this for learning purpose.
 
 ## Note
